@@ -28,7 +28,7 @@ Base styles guides:
 
 Our updates:
 
-* Limit lines to 110 characters, in order to remove horizontal scrolling on GitHub when we are doing code review
+* Limit lines to 110 characters, in order to remove horizontal scrolling on the GitHub when we are doing code review
 * Align parameters like:
 
 ```ruby
